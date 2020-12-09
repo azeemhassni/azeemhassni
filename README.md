@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=azeemhassni&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&include_all_commits=true&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=azeemhassni&show_icons=true&icon_color=58a6ff&text_color=fff&bg_color=0f1218&hide_title=true&include_all_commits=true&count_private=true" />
 
 ### Hi there 👋
 
