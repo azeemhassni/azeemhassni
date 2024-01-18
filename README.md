@@ -6,6 +6,6 @@
 - 🔭 I’m currently working on stripcss.com and formship.io
 - 🌱 I’m currently learning to produce good quality programming videos on [YouTube](https://www.youtube.com/channel/UC0x38in3hPLZZW0mi8CuSpw). 
 - 👯 I’m looking for collaborators on [Pine](https://github.com/azeemhassni/pine) and [Raksoh](https://github.com/azeemhassni/Raskoh)
-- 💬 Ask me about PHP
+- 💬 Ask me about React, Shopify, WordPress and PHP 
 - 📫 How to reach me: Follow me on Twitter, Subscribe to [my youtube channel](https://www.youtube.com/channel/UC0x38in3hPLZZW0mi8CuSpw)
 - ⚡ Fun fact: I started learning programming from a PDF book and had no access to internet at home at that time, so I used to go to an internet cafe after school.
